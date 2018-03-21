@@ -9,7 +9,7 @@ Laboratorio Ciberfisico<br>
 A.Y. 2017/2018<br>
 University of Verona (Italy)
 
-[laboratorio ciberfisico](images/cyberphysical-lab.jpg)
+![laboratorio ciberfisico](images/cyberphysical-lab.jpg)
 
 hello_ros is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
