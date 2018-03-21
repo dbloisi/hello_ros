@@ -1,5 +1,4 @@
-# hello_ros
-## my first ros package
+# hello_ros<br>my first ros package
 
 This file is part of hello_ros and it is distributed under the terms of the
 GNU Lesser General Public License (Lesser GPL)
