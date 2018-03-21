@@ -3,10 +3,10 @@
 This file is part of hello_ros and it is distributed under the terms of the
 GNU Lesser General Public License (Lesser GPL)
 
-hello_ros is included in the material of the course (in italian)
-Laboratorio Ciberfisico
-[Robot Programming with ROS](http://profs.scienze.univr.it/~bloisi/corsi/ciberfisico.html)
-A.Y. 2017/2018
+hello_ros is included in the material of the course (in italian)<br>
+Laboratorio Ciberfisico<br>
+[Robot Programming with ROS](http://profs.scienze.univr.it/~bloisi/corsi/ciberfisico.html)<br>
+A.Y. 2017/2018<br>
 University of Verona (Italy)
 
 hello_ros is distributed in the hope that it will be useful,
@@ -23,5 +23,5 @@ a simple publisher/subscriber mechanism.
 see [this file](hello-ros.pdf) for additional information (in italian)
 
  
-Please, report suggestions/comments/bugs to
+Please, report suggestions/comments/bugs to<br>
 domenico.bloisi@gmail.com
