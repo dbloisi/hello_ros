@@ -8,8 +8,10 @@ hello_ros is included in the material of the courses (in italian)<br>
   A.Y. 2018/2019<br>
   University of Basilicata (Italy)
   
+  <img src="images/visione-e-percezione-unibas.jpg" width="250" />
+  <!--
   ![sistemi informativi unibas](images/visione-e-percezione-unibas.jpg =250x)
-
+  -->
 - Laboratorio Ciberfisico<br>
   [Robot Programming with ROS](http://profs.scienze.univr.it/~bloisi/corsi/ciberfisico.html)<br>
   A.Y. 2017/2018<br>
