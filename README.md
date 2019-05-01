@@ -17,7 +17,7 @@ hello_ros is included in the material of the courses (in italian)<br>
   A.Y. 2017/2018<br>
   University of Verona (Italy)
 
-  <img src="images/cyberphysical-lab.jpg.jpg" width="300" />
+  <img src="images/cyberphysical-lab.jpg" width="300" />
   <!--
   ![laboratorio ciberfisico](images/cyberphysical-lab.jpg =250x)
   -->
