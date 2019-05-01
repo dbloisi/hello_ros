@@ -8,7 +8,7 @@ hello_ros is included in the material of the courses (in italian)<br>
   A.Y. 2018/2019<br>
   University of Basilicata (Italy)
   
-  <img src="images/visione-e-percezione-unibas.jpg" width="250" />
+  <img src="images/visione-e-percezione-unibas.jpg" width="300" />
   <!--
   ![sistemi informativi unibas](images/visione-e-percezione-unibas.jpg =250x)
   -->
@@ -17,8 +17,11 @@ hello_ros is included in the material of the courses (in italian)<br>
   A.Y. 2017/2018<br>
   University of Verona (Italy)
 
+  <img src="images/cyberphysical-lab.jpg.jpg" width="300" />
+  <!--
   ![laboratorio ciberfisico](images/cyberphysical-lab.jpg =250x)
- 
+  -->
+  
 hello_ros is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
