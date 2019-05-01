@@ -5,16 +5,17 @@ GNU Lesser General Public License (Lesser GPL)
 
 hello_ros is included in the material of the courses (in italian)<br>
 - [Sistemi Informativi](https://dbloisi.github.io/corsi/sistemi-informativi.html)<br>
-  ![sistemi informativi unibas](images/visione-e-percezione-unibas.jpg)
   A.Y. 2018/2019<br>
   University of Basilicata (Italy)
+  
+  ![sistemi informativi unibas](images/visione-e-percezione-unibas.jpg =250x)
 
 - Laboratorio Ciberfisico<br>
   [Robot Programming with ROS](http://profs.scienze.univr.it/~bloisi/corsi/ciberfisico.html)<br>
   A.Y. 2017/2018<br>
   University of Verona (Italy)
 
-  ![laboratorio ciberfisico](images/cyberphysical-lab.jpg)
+  ![laboratorio ciberfisico](images/cyberphysical-lab.jpg =250x)
  
 hello_ros is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
