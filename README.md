@@ -3,24 +3,11 @@
 This file is part of hello_ros and it is distributed under the terms of the
 GNU Lesser General Public License (Lesser GPL)
 
-hello_ros is included in the material of the courses (in italian)<br>
-- [Sistemi Informativi](https://dbloisi.github.io/corsi/sistemi-informativi.html)<br>
-  A.Y. 2018/2019<br>
+hello_ros is included in the material of the course (in italian)<br>
+- [Visione e Percezione](http://web.unibas.it/bloisi/corsi/visione-e-percezione.html)<br>
   University of Basilicata (Italy)
   
   <img src="images/visione-e-percezione-unibas.jpg" width="300" />
-  <!--
-  ![sistemi informativi unibas](images/visione-e-percezione-unibas.jpg =250x)
-  -->
-- Laboratorio Ciberfisico<br>
-  [Robot Programming with ROS](http://profs.scienze.univr.it/~bloisi/corsi/ciberfisico.html)<br>
-  A.Y. 2017/2018<br>
-  University of Verona (Italy)
-
-  <img src="images/cyberphysical-lab.jpg" width="300" />
-  <!--
-  ![laboratorio ciberfisico](images/cyberphysical-lab.jpg =250x)
-  -->
   
 hello_ros is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
